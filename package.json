@@ -1,0 +1,40 @@
+{
+  "name": "meta.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Snail",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "chrono-node": "^2.1.7",
+    "common-tags": "^1.8.0",
+    "db": "^3.1.0",
+    "discord-welcome": "^1.5.1",
+    "discord.js": "^12.2.0",
+    "discord.js-v11": "^12.1.1",
+    "fs": "0.0.1-security",
+    "leekslazylogger": "^2.0.0-alpha.5",
+    "mama": "0.0.1",
+    "moment": "^2.27.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.10.0",
+    "new": "^0.1.1",
+    "opusscript": "0.0.7",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "quick-db": "^1.0.5",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "sqlite": "^4.0.14",
+    "superagent": "^6.0.0",
+    "urban": "^0.3.2",
+    "weather": "^1.0.4",
+    "yo": "^3.1.1",
+    "ytdl-core": "^3.2.1"
+  }
+}
